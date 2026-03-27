@@ -1,6 +1,6 @@
 # BrModelo F - Ferramenta de Modelagem de Dados
 
-Este é um projeto de ferramenta de modelagem de dados (DER/ER) moderna, construída com React, Konva e TypeScript. Ele suporta diagramas conceituais, lógicos e diversas notações UML, além de topologia de rede e planta baixa.
+Este é um projeto de ferramenta de modelagem de dados (DER/ER) moderna, construída com React, Konva e TypeScript. Ele suporta diagramas conceituais, no futuro lógicos e diversas notações UML, além de topologia de rede e planta baixa.
 
 ## 🚀 Funcionalidades
 
