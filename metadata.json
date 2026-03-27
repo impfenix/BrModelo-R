@@ -1,0 +1,5 @@
+{
+  "name": "BrModelo R",
+  "description": "Uma ferramenta de modelagem de banco de dados e diagramas técnicos completa, inspirada no brModelo, com suporte a modelagem conceitual, lógica, UML, topologia de rede e planta baixa.",
+  "requestFramePermissions": []
+}
