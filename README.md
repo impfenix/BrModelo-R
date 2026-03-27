@@ -4,7 +4,7 @@ Este é um projeto de ferramenta de modelagem de dados (DER/ER) moderna, constru
 
 ## 🚀 Funcionalidades
 
-- **Múltiplos Modos de Diagrama**: Conceitual, Lógico, UML (Classe, Caso de Uso, Sequência, Atividade, Estado), Topologia e Planta Baixa.
+- **Múltiplos Modos de Diagrama**: Conceitual, Lógico, no futuro UML (Classe, Caso de Uso, Sequência, Atividade, Estado), Topologia de Redes e Planta Baixa.
 - **Auto-relacionamento**: Suporte a relacionamentos recursivos com linhas paralelas e rótulos de papel.
 - **Exportação**: Suporte para exportar como imagem (PNG/JPG) e arquivo de projeto (.json).
 - **Multi-abas**: Organize seus modelos em diferentes abas.
