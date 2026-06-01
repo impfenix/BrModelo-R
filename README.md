@@ -7,7 +7,7 @@ Este é um projeto completo de modelagem de dados (DER/ER) e gerenciamento de se
 ## 🚀 Funcionalidades
 
 - **App de Modelagem**: Ferramenta iterativa focada em diagramas Lógico e Conceitual (MER/DER) baseados na notação do brModelo.
-  - *Nota:* Os componentes de UML, topologia de rede e planta baixa encontram-se na interface, porém **estão parcialmente implementados e não indisponíveis para uso**, pendentes de criação dos modelos e conectores para desenho (veja [CONTRIBUTING.md](CONTRIBUTING.md) caso deseje contribuir).
+  - *Nota:* Os componentes de UML, topologia de rede e planta baixa encontram-se ocultos na interface, porém **estão parcialmente implementados e não indisponíveis para uso**, pendentes de criação dos modelos e conectores para desenho (veja [CONTRIBUTING.md](CONTRIBUTING.md) caso deseje contribuir).
 - **App Servidor**: Painel de controle para gerenciar instâncias, usuários, domínios e backups.
 - **Multi-plataforma**: Web, Windows, Linux, macOS, Android, iOS e **Docker**.
 
