@@ -1,0 +1,8 @@
+{
+  "name": "Default Light",
+  "colors": {
+    "background": "#ffffff",
+    "text": "#141414",
+    "primary": "#3b82f6"
+  }
+}

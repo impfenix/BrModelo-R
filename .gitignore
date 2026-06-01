@@ -1,0 +1,19 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+release/
+
+# Arquivos temporários e grandes
+commandlinetools-linux-*.zip
+brmodelo-r*.zip
+cade.txt
+
+# Chaves de segurança (CRÍTICO)
+*.jks
+*.keystore
+brmodelo-key.jks
