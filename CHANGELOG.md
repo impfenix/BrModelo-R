@@ -15,6 +15,7 @@ Este projeto utiliza um modelo de lançamento contínuo (*Rolling Release*). Nã
 
 ### Parcialmente Implementado (Em Progresso)
 - **Desenho Conceitual:** Entidades, Relacionamentos, Atributos funcionam, mas validações avançadas de cardinalidade estão em refinamento.
+- **UML, Topologia de Rede e Planta Baixa:** A interface suporta os menus e opções para estas seções, mas elas **não estão disponíveis para uso prático** pois estão parcialmente implementadas. Carecem dos modelos/formatos visuais (*shapes*) para permitir os desenhos no canvas.
 - **Sincronização em Nuvem:** A interface permite selecionar Google Drive/OneDrive/Servidor Local, mas a API de sincronização real no backend está em desenvolvimento.
 - **Servidor Multiplataforma:** A base do servidor Express foi criada, mas a gestão completa de usuários, equipes e contas institucionais (OAuth) está em fase de estruturação.
 - **Mapeamento de 9 Passos:** A ferramenta foi adicionada à interface, mas a lógica de geração passo-a-passo está sendo codificada.
