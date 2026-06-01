@@ -1,0 +1,5 @@
+{
+  "name": "BrModelo-R",
+  "description": "Uma ferramenta completa de modelagem de dados e gerenciamento de servidor, com suporte a diagramas, usuários, domínios e backups.",
+  "requestFramePermissions": []
+}

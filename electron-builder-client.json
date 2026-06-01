@@ -1,0 +1,53 @@
+{
+  "appId": "com.brmodelo.app",
+  "productName": "BrModelo R",
+  "directories": {
+    "output": "release/client"
+  },
+  "files": [
+    "dist/**/*",
+    "electron/**/*"
+  ],
+  "extraResources": [
+    "public/icone.png",
+    "public/icone.svg",
+    "public/logo.svg",
+    "public/qrcode.png"
+  ],
+  "win": {
+    "icon": "public/icone.png",
+    "target": [
+      {
+        "target": "portable",
+        "arch": ["x64", "ia32", "arm64"]
+      }
+    ]
+  },
+  "portable": {
+    "artifactName": "${productName}_${version}_${arch}_Portable.${ext}"
+  },
+  "linux": {
+    "icon": "public/icone.png",
+    "target": [
+      {
+        "target": "deb",
+        "arch": ["x64", "arm64"]
+      }
+    ],
+    "category": "Development",
+    "executableName": "brmodelo-r"
+  },
+  "deb": {
+    "compression": "gz"
+  },
+  "mac": {
+    "icon": "public/icone.png",
+    "target": [
+      {
+        "target": "zip",
+        "arch": ["universal"]
+      }
+    ],
+    "category": "public.app-category.developer-tools"
+  }
+}
